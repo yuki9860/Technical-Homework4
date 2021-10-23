@@ -68,6 +68,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="images\After1.jpg" />
+    <Content Include="images\After2.jpg" />
+    <Content Include="images\After3.jpg" />
+    <Content Include="images\angular.jpg" />
+    <Content Include="images\aspnet.jpg" />
+    <Content Include="images\catToy1.jpg" />
+    <Content Include="images\csharp.jpg" />
+    <Content Include="images\display pic.jpg" />
+    <Content Include="images\dogfood1.jpg" />
+    <Content Include="images\dogGrooming1.jpg" />
+    <Content Include="images\java.jpg" />
+    <Content Include="images\mongodb.jpg" />
+    <Content Include="images\mssql.jpg" />
+    <Content Include="images\node.jpg" />
+    <Content Include="images\python.jpg" />
+    <Content Include="images\typescript.jpg" />
     <Content Include="SecondPage.aspx" />
     <Content Include="ThirdPage.aspx" />
     <Content Include="Web.config" />
