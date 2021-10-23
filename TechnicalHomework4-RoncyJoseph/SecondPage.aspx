@@ -8,7 +8,6 @@
         <h1 class="display-4 text-center" style="color: blue">Hello, Welcome To Our Halloween Deals!</h1>
         <p class="lead text-center" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">With halloween just around the corner, Petco has all the items necessary for your pet best friends to have spookiest halloween ever!!!!</p>
     </div>
-    <%--<div style="display: flex; flex-direction: row;">--%>
     <div class="row row-cols-1 row-cols-md-3">
         <div class="col mb-4">
             <div class="card h-100">

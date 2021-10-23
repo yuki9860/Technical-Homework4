@@ -61,14 +61,14 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1 style="color: red">Master Page</h1>
+            <%--<h1 style="color: red">Master Page</h1>--%>
 
             <h5>PETCO</h5>
             <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
                 <div style="display: flex; flex-direction: row; justify-content: space-around; width: 35%">
                     <a href="Default.aspx">Home</a>
                     <a href="SecondPage.aspx">Halloween</a>
-                    <a href="ThirdPage.aspx">Third Page</a>
+                    <a href="ThirdPage.aspx">Dog Food</a>
                 </div>
             </nav>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

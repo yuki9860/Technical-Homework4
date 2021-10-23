@@ -1,6 +1,12 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="TechnicalHomework4_RoncyJoseph.Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+    .auto-style1 {
+        width: 85%;
+        height: 1156px;
+    }
+</style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h3 class="text-center" >
@@ -22,8 +28,8 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-       
-                <div class="carousel-item active">
+      
+                 <div class="carousel-item active">
                     <img src="images/dogGrooming1.jpg" class="d-block w-100" alt="dogGrooming1" style="width: 100%;">
                     <div class="carousel-caption d-none d-md-block">
                         <h1 class="p-3 mb-2 bg-light text-danger">25% off all Pet Grooming Appointments until DECEMBER 25, 2021!!!!</h1>
