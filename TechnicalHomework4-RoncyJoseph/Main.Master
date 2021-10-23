@@ -66,8 +66,8 @@
             <h5>PETCO</h5>
             <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
                 <div style="display: flex; flex-direction: row; justify-content: space-around; width: 35%">
-                    <a href="Default.aspx">Default Page</a>
-                    <a href="SecondPage.aspx">Second Page</a>
+                    <a href="Default.aspx">Home</a>
+                    <a href="SecondPage.aspx">Halloween</a>
                     <a href="ThirdPage.aspx">Third Page</a>
                 </div>
             </nav>
